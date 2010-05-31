@@ -1,0 +1,7 @@
+name: Image.toGreyscale
+author: ninja_p
+category: Utilities
+tags: [images, greyscale, canvas]
+#docs: http://url.to.docs
+demo: http://ninjapenguin.github.com/demos/imageToGreyscale/
+current: 0.1
