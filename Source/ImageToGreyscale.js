@@ -1,6 +1,6 @@
 /*
 ---
-description: Converts local image to greyscale version
+description: Converts local image to greyscale version, original code from http://www.ajaxblender.com/howto-convert-image-to-grayscale-using-javascript.html
 
 license: MIT-style
 
