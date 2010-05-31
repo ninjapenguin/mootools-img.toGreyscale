@@ -1,7 +1,7 @@
 toGreyscale
 ======
 
-![icon](http://github.com/ninjapenguin/MooFlick/raw/master/Images/mf.png)
+![icon](http://github.com/ninjapenguin/MooFlick/raw/master/Images/gs.png)
 
 Methods for converting a locally hosted image to greyscale and back again!
 
