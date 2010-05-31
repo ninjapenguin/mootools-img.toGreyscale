@@ -33,4 +33,5 @@ Known Issues
 ------
 
 Non-IE browsers must support the canvas tag
+
 Will only work on locally served images from the same domain (due to browser same origin policies)
