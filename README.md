@@ -7,7 +7,7 @@ Methods for converting a locally hosted image to greyscale and back again!
 
 This is a mootools plugin port of an original piece of code seen [here](http://www.ajaxblender.com/howto-convert-image-to-grayscale-using-javascript.html), all credit goes to them!
 
-Usage
+How to use
 ----------
 
 	JS
